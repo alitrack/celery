@@ -1,0 +1,1 @@
+python -m celery -A celery_demo worker -l info -P eventlet
